@@ -74,6 +74,8 @@ Typically a memory address, as it references another object.
 
 Give the order of growth (as a function of N) of the running times of each of the following code fragments:
 
+---
+
 ```java
 int sum = 0;
 for (int n = N; n > 0; n /= 2)
@@ -112,6 +114,8 @@ for (int n = N; n > 0; n /= 2)
 
 This is linear because: `(N + N/2 + N/4 + ...)`.
 
+---
+
 ```java
 int sum = 0;
 for (int i = 1; i < N; i *= 2)
@@ -120,6 +124,8 @@ for (int i = 1; i < N; i *= 2)
 ```
 
 This is linear because: `(1 + 2 + 4 + 8 + ...)`.
+
+---
 
 ```java
 int sum = 0;
