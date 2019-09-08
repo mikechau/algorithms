@@ -5,6 +5,8 @@
 - [1.4 - Analysis of Algorithms](./1.4_analysis_of_algorithms)
 - [1.5 - Union Find](./1.5_union_find)
 
+## Analysis of Algorithms
+
 ## Algorithm Review
 
 | algorithm | worst-case time |
