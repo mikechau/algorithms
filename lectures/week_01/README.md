@@ -2,8 +2,8 @@
 
 ## Reading Notes
 
-- [1.4 - Analysis of Algorithms](./1.4_analysis_of_algorithms)
-- [1.5 - Union Find](./1.5_union_find)
+- [1.4 - Analysis of Algorithms](../../notes/1.4_analysis_of_algorithms)
+- [1.5 - Union Find](../../notes/1.5_union_find)
 
 ## Analysis of Algorithms
 
