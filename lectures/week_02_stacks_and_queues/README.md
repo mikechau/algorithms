@@ -50,7 +50,7 @@
 >
 > The array iterator will fail for two reasons. First, the the items should be iterated over in the opposite order. Second, the items won't typically be stored in the array as entries `0` to `n−1n-1n−1`.
 
-## Dijkstra's two-stack algorithm
+## Dijkstra's Two-Stack Algorithm
 
 - `Value`: push onto the value stack.
 - `Operator`: push onto the operator stack.
