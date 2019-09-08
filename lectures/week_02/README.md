@@ -1,6 +1,6 @@
-# Week 2 - Stacks and Queues
+# Week 2 - Stacks and Queues / Elementary Sorts
 
-## Notes
+## Reading Notes
 
 1. [1.3 - Stacks and Queues](./1.3_stacks_and_queues)
 2. [2.1 - Elementary Sorts](./2.1_elementary_sorts)

@@ -1,4 +1,4 @@
 # Lectures
 
-- [Week 1 - Union Find](./week_01_union_find)
-- [Week 2 - Stacks and Queues](./week_02_stacks_and_queues)
+- [Week 1 - Union Find / Analysis of Algorithms](./week_01)
+- [Week 2 - Stacks and Queues / Elementary Sorts](./week_02)
